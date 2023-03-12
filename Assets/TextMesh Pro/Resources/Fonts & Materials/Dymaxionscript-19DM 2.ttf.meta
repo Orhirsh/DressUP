@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fe70e54416c7f744c8fc99baaabf7c4e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DymaxionScript
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ae4b22a49555c054e97817d23b7d021d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
